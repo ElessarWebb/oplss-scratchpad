@@ -1,0 +1,6 @@
+name: statix
+include:
+  .
+  ./src/
+  ./lib/stdlib.agda/src/
+  ./lib/stdlib++.agda/src/
